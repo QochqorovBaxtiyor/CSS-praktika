@@ -1,0 +1,423 @@
+body{
+    background-color: whitesmoke;
+}
+.wrap{
+    width: 100%;
+}
+.navbar-menu{
+    width: 100%;
+    height: 700px;
+    background-color: #efefef;
+}
+.navbar-menu-item{
+    width: 1300px;
+    height: 100px;
+    position: relative;
+    left: 250px;
+}
+.navbar-menu-item:nth-child(2){
+    text-align: center;
+}
+.rasm1{
+    width: 148px;
+    height: 50px;
+    position: relative;
+    top: 20px;
+}
+.yozuvlar1{
+    display: inline-block;
+    font-size: 18px;
+    text-decoration: none;
+    color: black;
+    position: relative;
+    left: 10px;
+}
+.yozuvlar1:hover{
+    color: #ff8c00;
+}
+.yozuvlar2{
+    display: inline-block;
+    font-size: 18px;
+    text-decoration: none;
+    color: black;
+    position: relative;
+    left: 20px;
+}
+.yozuvlar2:hover{
+    color: #ff8c00;
+}
+.yozuvlar3{
+    display: inline-block;
+    font-size: 18px;
+    text-decoration: none;
+    color: black;
+    position: relative;
+    left: 30px;
+}
+.yozuvlar3:hover{
+    color: #ff8c00;
+}
+.yozuvlar4{
+    display: inline-block;
+    font-size: 18px;
+    text-decoration: none;
+    color: black;
+    position: relative;
+    left: 40px;
+}
+.yozuvlar4:hover{
+    color: #ff8c00;
+}
+.yozuvlar5{
+    display: inline-block;
+    font-size: 18px;
+    text-decoration: none;
+    color: black;
+    position: relative;
+    left: 60px;
+}
+.yozuvlar5:hover{
+    color: #ff8c00;
+}
+.kowelok{
+    width: 200px;
+    height: 45px;
+    border-radius: 25px;
+    border: 1px solid grey;
+    position: relative;
+    left: 200px;
+    bottom: 3px;
+    background-color: white;
+}
+.voyti{
+    width: 100px;
+    height: 45px;
+    border-radius: 25px;
+    position: relative;
+    left: 220px;
+    bottom: 5px;
+    color: white;
+    border: 1px solid #ff8c00;
+    background-color: #ff8c00;
+}
+.sozdat{
+    font-size: 45px;
+    font-weight: bold;
+    position: relative;
+    bottom: 10px;
+}
+.nuzen{
+    font-size: 25px;
+    position: relative;
+    bottom: 40px;
+}
+.koshelok{
+    background-image: url("rasmla/kosholok1.PNG");
+    background-size: 275px;
+    background-repeat: no-repeat;
+    width: 270px;
+    height: 60px;
+    border-radius: 30px;
+    background-position: -4px -3px;
+    border: 1px solid #ff8c00;
+    box-shadow: 0 10px 10px #ffb16e;
+}
+.navbar-menu1{
+    width: 1200px;
+    height: 500px;
+    position: relative;
+    left: 300px;
+    bottom: 80px;
+}
+.navbar-menu-item1{
+    width: 1200px;
+    height:200px;
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 20px;
+}
+.yurak{
+    position: relative;
+    left: 50px;
+    top: 20px;
+    float: left;
+}
+.aktualnoe{
+    font-weight: bold;
+    font-size: 35px;
+    position: relative;
+    left: 100px;
+    margin-top:40px;
+}
+.sobrali{
+    width: 600px;
+    position: relative;
+    left: 100px;
+    font-size: 20px;
+    bottom: 40px;
+    float: left;
+}
+.xochu{
+    width: 200px;
+    height: 50px;
+    position: relative;
+    left: 150px;
+    bottom: 60px;
+    background-color: white;
+    border: 1px solid grey;
+    border-radius: 30px;
+}
+.xochu:hover{
+    border: 1px solid black;
+}
+.navbar-menu-item2{
+    width: 580px;
+    height: 300px;
+    background-color: white;
+    position: relative;
+    top: 30px;
+    border: 1px solid white;
+    border-radius: 20px;
+    display: inline-block;
+}
+.keshbek{
+    font-weight: bold;
+    font-size: 25px;
+    position: relative;
+    left: 30px;
+    top: 20px;
+}
+.do{
+    position: relative;
+    left: 30px;
+    top: 10px;
+    width: 240px;
+}
+.pokupat{
+    width: 200px;
+    height: 40px;
+    background-color: white;
+    border: 1px solid grey;
+    border-radius: 20px;
+    position: relative;
+    left: 30px;
+    top: 30px;
+    float: left;
+}
+.brands{
+    margin-left: 80px;
+    margin-top: -120px;
+}
+.navbar-menu-item3{
+    width: 580px;
+    height: 300px;
+    display: inline-block;
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 20px;
+    position: relative;
+    left: 35px;
+    top: 55px;
+}
+.karta{
+    font-weight: bold;
+    font-size: 35px;
+    position: relative;
+    left: 40px;
+    width: 290px;
+}
+.bezplatnoe{
+    width: 270px;
+    position: relative;
+    left: 40px;
+    bottom: 30px;
+    font-size: 21px;
+}
+.poluchit{
+    width: 200px;
+    height: 50px;
+    background-color: white;
+    border: 1px solid grey;
+    border-radius: 30px;
+    position: relative;
+    bottom: 40px;
+    left: 40px;
+    float: left;
+}
+.qiwicard{
+    margin-top: -210px;
+    margin-left: 140px;
+}
+.navbar-menu-item4{
+    width: 900px;
+    height: 200px;
+}
+.terminal{
+    color: grey;
+    text-decoration: none;
+    position: relative;
+    top: 100px;
+    display: inline-block;
+}
+.identifikatsiya{
+    color: grey;
+    text-decoration: none;
+    position: relative;
+    top: 100px;
+    display: inline-block;
+    left: 20px;
+}
+.pomosh{
+    color: grey;
+    text-decoration: none;
+    position: relative;
+    top: 100px;
+    display: inline-block;
+    left: 30px;
+}
+.ofeti{
+    color: grey;
+    text-decoration: none;
+    position: relative;
+    top: 100px;
+    display: inline-block;
+    left: 40px;
+}
+.kartasayti{
+    color: grey;
+    text-decoration: none;
+    position: relative;
+    top: 100px;
+    display: inline-block;
+    left: 50px;
+}
+.kontakti{
+    color: #808080;
+    text-decoration: none;
+    position: relative;
+    top: 100px;
+    display: inline-block;
+    left: 60px;
+}
+.internet{
+    color: grey;
+    text-decoration: none;
+    position: relative;
+    top: 100px;
+    display: inline-block;
+    left: 70px;
+}
+.clear{
+    clear: both;
+}
+.agentam{
+    color: grey;
+    text-decoration: none;
+    position: relative;
+    top: 120px;
+    display: inline-block;
+}
+.arendod{
+    color: grey;
+    text-decoration: none;
+    position: relative;
+    top: 120px;
+    display: inline-block;
+    left: 20px;
+}
+.rabota{
+    color: grey;
+    text-decoration: none;
+    position: relative;
+    top: 120px;
+    display: inline-block;
+    left: 30px;
+}
+.invest{
+    color: grey;
+    text-decoration: none;
+    position: relative;
+    top: 120px;
+    display: inline-block;
+    left: 30px;
+}
+.kivibank{
+    color: grey;
+    text-decoration: none;
+    position: relative;
+    top: 120px;
+    display: inline-block;
+    left: 40px;
+}
+.priem{
+    color: grey;
+    text-decoration: none;
+    position: relative;
+    top: 120px;
+    display: inline-block;
+    left: 50px;
+}
+.navbar-menu-item5{
+    width: 300px;
+    height: 200px;
+    position: relative;
+    left: 900px;
+    bottom: 100px;
+}
+.dlyazvonok{
+    text-decoration: none;
+    color: grey;
+    font-size: 20px;
+}
+.nomer1{
+    color: grey;
+    position: relative;
+    left: 130px;
+    font-size: 25px;
+    bottom: 10px;
+}
+.navbar-menu-item6{
+    position: relative;
+    bottom: 210px;
+    right: 10px;
+    width: 550px;
+}
+.rossiya{
+    color: grey;
+}
+.navbar-menu-item7{
+    width: 500px;
+    position: relative;
+    left: 720px;
+    bottom: 270px;
+}
+.button{
+    display: inline-block;
+    text-align: center;
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    position: relative;
+    bottom: 100px;
+    left: 250px;
+}
+.button1{
+    display: inline-block;
+    text-align: center;
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    position: relative;
+    bottom: 100px;
+    left: 300px;
+}
+.button2{
+    display: inline-block;
+    text-align: center;
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    position: relative;
+    bottom: 100px;
+    left: 350px;
+}
